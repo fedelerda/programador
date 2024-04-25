@@ -1,0 +1,15 @@
+h1 {
+    color:aqua;/*color tipo*/
+}
+h2 {
+    background-color: brown;
+}
+h3 {
+    color: burlywood;
+}
+.destacados {text align: center 
+    text transform: uppercase}
+#caja {width:100px;
+    height: 100px;
+    background-color: black;
+    border: 2px grey;}
